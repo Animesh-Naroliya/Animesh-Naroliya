@@ -63,12 +63,3 @@ I am a **Computer Science & Technology (AIML)** student at **Chandigarh Universi
 | **Emotion Detection with Ratio** | Real-time CNN-based emotion recognition model using landmark ratios, trained on 45,000+ images. | *CNN, NumPy, OpenCV* |
 
 ---
-
-<div align="center">
-  <h3>Get in Touch</h3>
-  <p>Have a project idea or just want to connect?</p>
-  
-  <a href="mailto:animeshnaroliya@gmail.com?subject=Hello%20Animesh!&body=Hi%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.">
-    <img src="https://img.shields.io/badge/Click_Here_to_Send_Message-20C20E?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Message" />
-  </a>
-</div>
